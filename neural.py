@@ -8,8 +8,8 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 
 # File paths for positive and negative reviews
-pos_file = r'rt-polaritydata\rt-polaritydata\rt-polarity.pos'
-neg_file = r'rt-polaritydata\rt-polaritydata\rt-polarity.neg'
+pos_file = r'rt-polarity.pos'
+neg_file = r'rt-polarity.neg'
 
 # Reading reviews from files
 with open(neg_file, 'r', encoding='latin-1') as neg_f:
