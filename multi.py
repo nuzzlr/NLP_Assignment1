@@ -12,8 +12,8 @@ import seaborn as sns
 # pos_file = 'C:\Users\manis\OneDrive\Desktop\s\CS683-main\Assignment\rt-polaritydata\rt-polaritydata\rt-polarity.neg'
 # neg_file = 'C:\Users\manis\OneDrive\Desktop\s\CS683-main\Assignment\rt-polaritydata\rt-polaritydata\rt-polarity.pos'
 
-pos_file = r'rt-polaritydata\rt-polaritydata\rt-polarity.pos'
-neg_file = r'rt-polaritydata\rt-polaritydata\rt-polarity.neg'
+pos_file = r'rt-polarity.pos'
+neg_file = r'rt-polarity.neg'
 
 
 # Reading reviews from files
